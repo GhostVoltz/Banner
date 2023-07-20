@@ -1,4 +1,4 @@
-Manual de instalação do baner
+Manual de instalacao do baner
 👇
 termux-setup-storage
 👇
